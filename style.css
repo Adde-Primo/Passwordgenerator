@@ -233,6 +233,7 @@ p {
       height: 90vh;
   }
 
+
   #custom-alert {
     position: fixed;
     top: 50px;
@@ -257,13 +258,12 @@ p {
     pointer-events: none;
   }
 
-
   p {
       font-weight: 300;
   }
 
   .title {
-      margin-top: 130px;
+      margin-top: 180px;
   }
 
   .copy-container {
