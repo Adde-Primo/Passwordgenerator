@@ -9,7 +9,6 @@
 
 body {
   background-color: #17111b;
-  height: 100vh;
   width: 100vw;
   display: flex;
   justify-content: center;
@@ -231,6 +230,7 @@ p {
 
   body {
       overflow-x: hidden;
+      height: 90vh;
   }
 
   #custom-alert {
