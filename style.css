@@ -230,7 +230,7 @@ p {
 
   body {
       overflow-x: hidden;
-      height: 90vh;
+      height: 100vh;
   }
 
 
@@ -263,7 +263,7 @@ p {
   }
 
   .title {
-      margin-top: 180px;
+    margin: 20px;
   }
 
   .copy-container {
